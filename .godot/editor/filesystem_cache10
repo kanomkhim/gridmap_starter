@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1753250284
+default_env.tres::Environment::-1::1753248080::0::1::::<><><>0<>0<><>::
+GridMap_Demo.tscn::PackedScene::-1::1753248080::0::1::::<><><>0<>0<><>::res://MeshLibrary.tres
+icon.png::CompressedTexture2D::193061034728815081::1753248080::1753250286::1::::<><><>0<>0<>f755d6135f9a08c7a472d41665d528f0<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+MeshLibrary.tres::MeshLibrary::-1::1753248080::0::1::::<><><>0<>0<><>::res://assets/dae/golf.material
+MeshLibrary_Source.tscn::PackedScene::-1::1753248080::0::1::::<><><>0<>0<><>::res://assets/dae/course_parts.dae
+README.md::TextFile::-1::1753248080::0::1::::<><><>0<>0<><>::
+::res://assets/::1753248080
+texture.png::CompressedTexture2D::1569410890898988766::1753248080::1753250287::1::::<><><>0<>0<>dea65b8a27caa4a06629cb661e1d074d<>res://.godot/imported/texture.png-37d4f2cf5563ef4871bbbd6f14421d67.s3tc.ctex::
+::res://assets/dae/::1753248080
+course_parts1.dae::PackedScene::2744527945053556523::1753248080::1753250286::1::::<><><>0<>0<>1e07f4db83daf987890503523d4df081<>res://.godot/imported/course_parts1.dae-eda5ac756b48ebebfb1a6673cc545b23.scn::uid://wmh76dnhyjx3::::res://assets/texture.png
+course_parts.dae::PackedScene::2680312451809046992::1753248080::1753250287::1::::<><><>0<>0<>ad8743bbfb6a2b8bce04068531dc2f14<>res://.godot/imported/course_parts.dae-4da1195347aecc2f52514b442543c573.scn::uid://wmh76dnhyjx3::::res://assets/texture.png
+course_test.dae::PackedScene::6698669761694941032::1753248080::1753250287::1::::<><><>0<>0<>86c3ca3f8397a2688e9bef7e60c7517b<>res://.godot/imported/course_test.dae-6a7601aea0fefbfd5e96923a1a43a1eb.scn::uid://wmh76dnhyjx3::::res://assets/texture.png
+golf.material::StandardMaterial3D::-1::1753248080::0::1::::<><><>0<>0<><>::res://assets/texture.png
+golf_windmill.dae::PackedScene::3327962972672048905::1753248080::1753250287::1::::<><><>0<>0<>3605979791d883daebcdfd9c418f33a0<>res://.godot/imported/golf_windmill.dae-9f1084a0af58931667ac2e93b3e61eed.scn::uid://wmh76dnhyjx3::::res://assets/texture.png
